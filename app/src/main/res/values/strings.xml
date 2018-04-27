@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleVisionSample</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+</resources>
